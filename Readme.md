@@ -16,4 +16,4 @@ yarn dev
 ```
 ## Imagen de referencia
 
-("https://raw.githubusercontent.com/DarvCode1/react-router-om/master/src/example/ScreenShot.jpg")
+![img](https://raw.githubusercontent.com/DarvCode1/react-router-om/master/src/example/ScreenShot.jpg)
